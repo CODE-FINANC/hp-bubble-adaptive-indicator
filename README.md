@@ -1,0 +1,1 @@
+# hp-bubble-adaptive-indicator
