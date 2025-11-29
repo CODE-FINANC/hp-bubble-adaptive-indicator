@@ -116,7 +116,6 @@ The indicator automatically adjusts the Lambda parameter based on timeframe:
 
 When InpHigherTimeframe is set to PERIOD_CURRENT, the indicator automatically selects the next higher timeframe:
 
-🍁𝑴𝒉𝒍𝒂🍁, [08/09/1404 09:52 ق.ظ]
 | Current TF | Auto HTF |
 |-----------|----------|
 | M1-M4 | M5 |
